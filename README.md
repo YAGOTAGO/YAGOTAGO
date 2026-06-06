@@ -1,4 +1,6 @@
-[![Header Banner](https://capsule-render.vercel.app/api?type=waving&height=240&color=36302f&text=Tiago%20Davies&fontColor=ffffff&fontAlignY=29&fontSize=50&fontAlign=50&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=50&reversal=false&section=header)](https://tiagodavies.com)
+<a href="https://tiagodavies.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=36302f&text=Tiago%20Davies&fontColor=ffffff&fontAlignY=29&fontSize=50&fontAlign=50&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=50&reversal=false&section=header" alt="Tiago Davies Header Banner" />
+</a>
 Currently I work as a **Full Stack Software Dev** @ *Smart Software Solutions*
 
 <!-- Languages -->
