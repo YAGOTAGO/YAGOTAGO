@@ -1,4 +1,4 @@
-[![Header Banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=36302f&text=Tiago%20Davies&fontColor=ffffff&fontAlignY=34&fontSize=50&fontAlign=50&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=55)](https://tiagodavies.com)
+[![Header Banner](https://capsule-render.vercel.app/api?type=waving&height=240&color=36302f&text=Tiago%20Davies&fontColor=ffffff&fontAlignY=29&fontSize=50&fontAlign=50&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=50&reversal=false&section=header)](https://tiagodavies.com)
 Currently I work as a **Full Stack Software Dev** @ *Smart Software Solutions*
 
 <!-- Languages -->
