@@ -4,7 +4,7 @@ Currently I work as a **Full Stack Software Dev** @ *Smart Software Solutions* c
 Graduated with **B.S. Computer Science** from University of Rochester.
 <br>
 
----
+## What I Build With
 
 <!-- Languages -->
 [![Languages](https://img.shields.io/badge/Languages-36302f?style=flat-square)](#)
