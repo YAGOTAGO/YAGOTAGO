@@ -43,7 +43,7 @@ Graduated with **B.S. Computer Science** from the University of Rochester.
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
 
-## Contact Me
+## My Links
 [![Website](https://img.shields.io/badge/Portfolio-36302f?logo=google-chrome&logoColor=white)](https://tiagodavies.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/tiagodavies/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tiagocaetanodavies@gmail.com)
