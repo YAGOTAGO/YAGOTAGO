@@ -1,5 +1,5 @@
 [![Header Banner](https://capsule-render.vercel.app/api?type=waving&height=240&color=36302f&text=Tiago%20Davies&fontColor=ffffff&fontAlignY=29&fontSize=50&fontAlign=50&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=50&reversal=false&section=header)](https://tiagodavies.com)
-Currently I work as a **Full Stack Software Dev** @ *Smart Software Solutions* where I create web and mobile applications for clients.
+Currently I work as a **Full Stack Software Dev** @ *Smart Software Solutions* where I build web and mobile applications for clients.
 <br><br>
 Graduated with **B.S. Computer Science** from the University of Rochester.
 <br>
