@@ -16,6 +16,7 @@ Graduated with **B.S. Computer Science** from the University of Rochester.
 <!-- Front end -->
 [![Frontend](https://img.shields.io/badge/Frontend-36302f?style=flat-square)](#)
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
@@ -31,8 +32,8 @@ Graduated with **B.S. Computer Science** from the University of Rochester.
 <!-- Tools -->
 [![Tools](https://img.shields.io/badge/Tools-36302f?style=flat-square)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
-[![TortoiseSVN](https://img.shields.io/badge/TortoiseSVN-809CC0?logo=subversion&logoColor=white)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
