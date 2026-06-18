@@ -36,7 +36,6 @@ Graduated with **B.S. Computer Science** from the University of Rochester.
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
-[![Apache Cordova](https://img.shields.io/badge/Cordova-E8E8E8?logo=apache-cordova&logoColor=black)](#)
 
 <!-- IDEs -->
 [![IDEs](https://img.shields.io/badge/IDEs-36302f?style=flat-square)](#)
