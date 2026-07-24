@@ -1,4 +1,4 @@
-[![Header Banner](https://capsule-render.vercel.app/api?type=waving&height=240&color=36302f&text=Tiago%20Davies&fontColor=ffffff&fontAlignY=29&fontSize=50&fontAlign=50&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=50&reversal=false&section=header)](https://tiagodavies.com)
+[![Header Banner](https://capsule-render.vercel.app/api?type=waving&height=240&color=36302f&text=Tiago%20Davies&fontColor=ffffff&fontAlignY=29&fontSize=50&fontAlign=50&animation=fadeIn&desc=Software%20Engineer%20&descAlignY=50&reversal=false&section=header)](https://tiagodavies.com)
 I currently work as a **Software Engineer** @ *Smart Software Solutions* where I build full-stack web and mobile applications for clients.
 <br><br>
 Graduated with **B.S. Computer Science** from the University of Rochester.
