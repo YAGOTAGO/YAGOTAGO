@@ -33,10 +33,10 @@ Graduated with **B.S. Computer Science** from the University of Rochester.
 [![Tools](https://img.shields.io/badge/Tools-36302f?style=flat-square)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
-[![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white)](#)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
+[![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
 
 <!-- IDEs -->
